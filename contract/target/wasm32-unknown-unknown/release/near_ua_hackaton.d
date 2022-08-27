@@ -1,0 +1,1 @@
+/Users/marija/Documents/near/near-ua-hackaton/contract/target/wasm32-unknown-unknown/release/near_ua_hackaton.wasm: /Users/marija/Documents/near/near-ua-hackaton/contract/src/external.rs /Users/marija/Documents/near/near-ua-hackaton/contract/src/lib.rs
